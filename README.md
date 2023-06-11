@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neutral-00
+- 👋 Hi, I’m @neutral00
 - 👀 I’m interested in angular and ui development in general
 - 🌱 I’m currently learning Java and related technologies
 - 💞️ I’m looking to collaborate on Java_Angular stack
